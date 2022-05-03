@@ -1,0 +1,17 @@
+.carousel-inner {
+    width: 32%;
+    margin: 0px auto;
+}
+
+h5, .h5 {
+    color: black;
+}
+
+.carousel-indicators button{
+    color: black !important;
+    background-color: black !important;
+}
+
+h1 {
+    text-align: center;
+}
